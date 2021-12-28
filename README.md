@@ -18,7 +18,7 @@ The task is divided in different tasks, as follow:
 
 # How to install and usage
 You can download the project from:
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+https://github.com/JesusRodrigoCatalan/frontend-exercise.git
 Previous to running the test application in your IDE, check that you have installed the following:
 -Java JDK 1.8
 -Maven
